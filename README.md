@@ -23,11 +23,10 @@ Footer: Contains social media links and copyright information.
 Each section is designed to be informative and easy to navigate, ensuring that users can find the information they need quickly and efficiently.
 
 Features
-Hero Section
+
 Hero Image: The hero section features a large, engaging image that captures the essence of the event. This is complemented by a headline and a tagline that communicate the event’s purpose and invite users to register.
 Call-to-Action Button: A prominent "Register Now" button directs users to the schedule section where they can view event timings and register.
 
-Destinations Section
 Venue Information: This section provides detailed information about the various event locations. Each venue is showcased with an image and a brief description, helping users understand where the event will take place.
 Venue Grid Layout: The venues are presented in a grid layout for easy comparison and selection.
 
@@ -35,11 +34,10 @@ About Section
 Community Focus: This section emphasizes the community aspect of the event, highlighting the importance of collective effort and mutual support.
 Speaker Profiles: Profiles of the main speakers are featured here, including their photos, names, and brief descriptions. This helps attendees learn more about who will be speaking at the event and what they can expect.
 
-Schedule Section
 Event Schedule Table: A detailed table outlines the event schedule across various campuses. Each entry includes the campus name, speaker, date, time, and a registration button.
+
 Registration Buttons: Users can register for each session directly from the schedule table, making it easy to sign up for the events they are interested in.
 
-Contact Section
 Contact Information: Provides the physical address, email, and phone number for users to reach out with questions or for more information.
 Contact Form: Users can send a message directly through a form, allowing for easy communication with the event organizers.
 
