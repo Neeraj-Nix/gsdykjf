@@ -1,6 +1,6 @@
 NavGurukul Website
 Description
-This is a responsive website for NavGurukul, a community-focused initiative aimed at building a better future through education and collaboration. The website features various sections, including a hero image, a gallery, information about campus activities, details on the campus council, and a contact form.
+This is a little responsive website for NavGurukul, a community-focused initiative aimed at building a better future through education and collaboration. The website features various sections, including a hero image, a gallery, information about campus activities, details on the campus council, and a contact form.
 
 Features
 Responsive Design: The website is designed to be mobile-friendly, adjusting layouts based on screen sizes.
